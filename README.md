@@ -2,7 +2,7 @@
 
 <li><a href="https://www.kaggle.com/code/elieseramorim/pipeline-de-dados-do-telegram">Storytellyng no kagle </a></li> 
 <li><a href="https://www.linkedin.com/in/elieser-amorim-392b03327/">Linkedin </a></li> 
- <h2>Neste repositorio crio uma piplane de dados no telegram.<h2>
+ <h2>Neste repositorio crio uma pipeline de dados no telegram.<h2>
 
 
 
