@@ -1,4 +1,4 @@
-# <h1>Piplane de dados do telegram :telephone_receiver: <h1>
+# <h1>Pipeline de dados do telegram :telephone_receiver: <h1>
 
 <li><a href="https://www.kaggle.com/code/elieseramorim/pipeline-de-dados-do-telegram">Storytellyng no kagle </a></li> 
 <li><a href="https://www.linkedin.com/in/elieser-amorim-392b03327/">Linkedin </a></li> 
